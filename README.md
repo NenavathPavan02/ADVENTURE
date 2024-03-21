@@ -10,7 +10,7 @@ ADVENTURE - "Where Every Journey Begins"
  -  Pure HTML, CSS, JavaScript used
  
  ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
+
 
 
 ## 👓 Preview
@@ -33,8 +33,7 @@ Contributions make the open source community such an amazing place to learn, ins
 Any contributions you make are truly appreciated.
 Check out our [contribution guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for more information.
 
-## 🛡️ License
-Tourism-Website is licensed under the [MIT License](https://github.com/PritamSarbajna/tourism-website/blob/main/LICENSE) - see the LICENSE file for details.
+
 
 ## 🙏 Support
 This project needs a ⭐️ from you. Don't forget to leave a star ⭐️
